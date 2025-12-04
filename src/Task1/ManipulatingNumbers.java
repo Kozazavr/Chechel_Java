@@ -1,3 +1,5 @@
+package Task1;
+
 public class ManipulatingNumbers {
 
     public static void compareNumbers(int firstNumber, int secondNumber) {
